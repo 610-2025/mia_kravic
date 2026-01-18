@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+	p {
+	color:rgba(75,14,15,1.00) ;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size:18px;
+	line-height: 20px;
+	width: 1215px;
+	background-color:rgba(146,92,101,0.31);
+	padding: 20px;
+	text-align: center;
+	
+	}
+
+h1 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:rgba(75,14,15,1.00);
+	text-align: center;
+	border: 5px dotted;
+	}
+h2{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:rgba(75,14,15,1.00);
+	text-align: center;
+	text-decoration: overline
+	}
+h3 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color:rgba(136,62,63,1.00);
+}
+
+body {
+	background-image: url("../Multimedija/Fotografije/pozadina1.png");
+}
+a{
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 18px;
+	color:rgba(234,211,200,1.00) ;
+	background-color:rgba(75,14,15,0.75) ;
+	padding: 2px;
+	}
+a:hover{
+	background-color: white;
+}
+img {
+	width: 600px;
+	align: center;
+}
+
+li{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size:18px;
+	color:rgba(136,62,63,1.00);
+}
+
+
+span{color: rgba(155,62,64,1.00);}
+
+.drugapozadina {background-image: url("../Multimedija/Fotografije/pozadina2.png");}
+.naslovi {color:aliceblue; backgroundcolor: white}
+.nazivi {color:rgba(255,255,255,0.54)}
