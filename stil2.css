@@ -57,9 +57,10 @@ li{
 
 span{color: rgba(155,62,64,1.00);}
 
-.drugapozadina {background-image: url("pozadina2.png");}
+.drugapozadina {background-image: url("pozadina2.png);}
 .naslovi {color:aliceblue; backgroundcolor: white}
 .nazivi {color:rgba(255,255,255,0.54)}
+
 
 
 
