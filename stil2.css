@@ -31,7 +31,7 @@ h3 {
 }
 
 body {
-	background-image: url("../Multimedija/Fotografije/pozadina1.png");
+	background-image: url("Multimedija/Fotografije/pozadina1.png");
 }
 a{
 	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
@@ -57,6 +57,7 @@ li{
 
 span{color: rgba(155,62,64,1.00);}
 
-.drugapozadina {background-image: url("../Multimedija/Fotografije/pozadina2.png");}
+.drugapozadina {background-image: url("Multimedija/Fotografije/pozadina2.png");}
 .naslovi {color:aliceblue; backgroundcolor: white}
 .nazivi {color:rgba(255,255,255,0.54)}
+
