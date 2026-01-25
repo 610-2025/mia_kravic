@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*HOME PAGE*/
+@font-face{font-family: MiaKravic; src:url("../Faks/DM/Font/MiaKravic.ttf")}
+h1 {font-family: MiaKravic;
+	font-size:100px;
+	color:#5F7393;}
+
+h2 {font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 50px;
+	color: #B82B74;}
+
+h3{font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size:30px;
+	color: #5F7393;
+	background-color:#FECDEF}
+
+img {width: 600px;
+	align: center}
+
+body {background-image: url("../Fotografije/Pozadina1.png");}
+
+p{font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size:18px;
+	color:#0A3820}
+
+span{color:#5F7393;}
+
+ul {list-style-type: none;
+  margin: 0;
+  display: flex;
+  justify-content:flex-start;}
+
+a{font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+  font-style: oblique;
+  font-size:18px;
+  background-color:rgba(184,43,116,0.70);
+  padding: 10px;
+	color:#FFEEF8;}
+
+a:hover{background-color:#F1A3D3;}
+a:visited{background-color:#0A3820}
+
+
+/*O MENI*/
+.h1{font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
